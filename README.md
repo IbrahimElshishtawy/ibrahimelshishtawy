@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ibrahim+El-Sheshtawy;🚀+Advanced+Flutter+Developer;💡+Building+Beautiful+&+Efficient+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ibrahim+El-Shishtawy;🚀+Advanced+Flutter+Developer;💡+Building+Beautiful+Apps+&+Efficient+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -44,9 +44,9 @@ Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building **hig
   <img src="https://github.com/ibrahimshishtawy/ibrahimshishtawy/raw/main/assets/flutter_projects.gif" width="400" />
 </p>
 
-### 🏗 Auction App
+### 🏗 mazid App
 - Flutter app for managing auctions, products, and bidding  
-- **Tech & Badges:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
+- **Tech & Badges:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
 - **Progress:**  
  
 
