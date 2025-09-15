@@ -33,7 +33,7 @@ Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building **hig
 - State Management: Riverpod, Bloc, GetX, Provider  
 - Architecture: Clean Architecture, MVVM, Modular  
 - UI/UX: Custom Animations, Lottie, Cupertino & Material, Responsive Design  
-- Backend Integration: Firebase, REST APIs  
+- Backend Integration: Firebase, Supabase, REST APIs  
 - Testing & Deployment: Unit, Widget, Integration Tests, CI/CD  
 
 ---
@@ -46,7 +46,7 @@ Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building **hig
 
 ### 🏗 mazid App
 - Flutter app for managing auctions, products, and bidding  
-- **Tech & Badges:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
+- **Tech & Badges:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
 - **Progress:**  
  
 
