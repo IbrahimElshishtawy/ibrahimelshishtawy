@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ibrahim+El-Sheshtawy;🚀+Advanced+Flutter+Developer;💡+Building+Beautiful+&+Efficient+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ibrahim+El-Sheshtawy;🚀+Advanced+Flutter+Developer;💡+Building+High-Performance+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,29 +10,28 @@
 ---
 
 ## 🌟 About Me
-Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building high-performance, beautiful mobile apps. I integrate **cloud services** and **DevOps practices** to make apps scalable and maintainable.  
+Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** specialized in mobile apps with **clean architecture, responsive UI, and advanced state management**.  
 
 - 🎓 **IT Student** – Faculty of Computers & Information, Tanta University  
-- 🚀 **Specialization:** Flutter, State Management, UI/UX, Cloud Integration  
-- 🌱 **Currently Learning:** Advanced Flutter Patterns, Firebase & Supabase, CI/CD, Docker, Terraform  
-- 🎯 **Goal:** Deliver **efficient, responsive, and scalable Flutter apps**  
-- ⚡ **Fun Fact:** I automate repetitive tasks and love experimenting with animations 😎  
+- 🚀 **Specialization:** Advanced Flutter, State Management, UI/UX  
+- 🌱 **Learning & Courses:** Flutter & Dart Advanced (Self-study & NTI Course)  
+- 🏆 **Achievements:**  
+  - Completed multiple advanced Flutter projects  
+  - Built apps with **responsive UI, custom animations, and reusable widgets**  
+  - Contributor to **open-source Flutter packages**  
+- ⚡ **Fun Fact:** I love automating repetitive tasks and experimenting with animations  
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,riverpod,bloc,getx,provider,git,github,vscode,figma,terraform,docker,kubernetes&perline=6" />
-</p>
-
-**Advanced Flutter Skills:**  
-- ✅ State Management: Riverpod, Bloc, GetX, Provider  
-- ✅ Architecture: Clean Architecture, MVVM, Modular  
-- ✅ UI/UX: Custom Animations, Lottie, Cupertino & Material, Responsive Design  
-- ✅ Backend Integration: Firebase, Supabase, REST APIs  
-- ✅ Testing & Quality: Unit, Widget, Integration Tests, Code Reviews  
-- ✅ Deployment: Play Store, CI/CD (GitHub Actions & Codemagic)  
+**Flutter & Mobile Development:**  
+- State Management: Riverpod, Bloc, GetX, Provider  
+- Architecture: Clean Architecture, MVVM, Modular  
+- UI/UX: Custom Animations, Lottie, Cupertino & Material Widgets, Responsive Design  
+- Backend Integration: Firebase, Supabase, REST APIs  
+- Testing: Unit, Widget, Integration Tests  
+- Deployment: Play Store, CI/CD (GitHub Actions & Codemagic)  
 
 ---
 
@@ -42,10 +41,11 @@ Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building high-
   <img src="https://github.com/ibrahimshishtawy/ibrahimshishtawy/raw/main/assets/flutter_projects.gif" width="400" />
 </p>
 
-- 📱 **Notes App** – Advanced Flutter app with cloud sync, offline storage, and responsive UI.  
-- 🤖 **Pattern Recognition ML App** – Flutter frontend integrated with ML backend (RBM & VAE).  
-- ☁ **Cloud-Connected App** – Flutter + Supabase integration with authentication, realtime DB, and notifications.  
-- 💡 **Flutter Widgets & Packages** – Custom reusable widgets optimized for performance and animations.  
+- **Auction App** – Flutter app to manage auctions, display products, and register bids.  
+- **Wordle Game** – Flutter version of Wordle with daily statistics tracking and UI design.  
+- **Medical Booking App** – App for booking medical appointments with notifications and reminders.  
+- **Restaurant Management App** – Manage restaurant orders and menus with real-time updates.  
+- **Chat App** – Real-time messaging app using Flutter and Firebase.  
 
 ---
 
@@ -62,26 +62,16 @@ Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building high-
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🎓 **Huawei HCIA – Cloud**  
-- 🎓 **AWS Cloud Foundations (ALX Africa)**  
-- 🥇 Completed multiple **Advanced Flutter projects** with state-of-the-art UI/UX  
-- 📄 Contributor to open-source Flutter packages  
-
----
-
-## 📬 Connect with Me
+## 📬 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ibrahimshishtawy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ibrahim@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ibrahimshishtawy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a" target="_blank">
+    LinkedIn
+  </a> | 
+  <a href="mailto:shishtawyhima@gmail.com" target="_blank">
+    Email
+  </a> | 
+  Phone: 01223070571
 </p>
 
 ---
@@ -92,4 +82,4 @@ Hi! I'm **Ibrahim**, an **Advanced Flutter Developer** focused on building high-
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> "I build **efficient and beautiful Flutter apps**, combining creativity with performance, animations, and cloud integration." 🚀
+> "I build **efficient and beautiful Flutter apps**, combining creativity, performance, and advanced UI/UX techniques." 🚀
