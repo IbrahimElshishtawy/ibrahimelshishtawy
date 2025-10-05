@@ -1,58 +1,74 @@
 # Ibrahim El-Shishtawy  
 
 ## 🌟 About Me
-I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** focused on building clean, high-performance, and scalable mobile applications.
+I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** passionate about building fast, clean, and scalable mobile applications with strong architecture and smooth UI/UX.
 
 ### 🎯 Vision & Goals
-My goal is to become a **Full Software Engineer** — mastering every layer of software creation from backend logic to beautiful front-end experiences.  
-I aim to design and build complete, production-ready systems that combine strong architecture, usability, and performance.
+To become a **Full Software Engineer** capable of designing, developing, and deploying complete software ecosystems — from backend systems to beautiful front-end experiences.  
+My focus is on building real, production-level applications that combine **architecture, usability, and performance**.
 
 - 🎓 IT Student – Faculty of Computers & Information, Tanta University  
-- 🚀 Specialization: Flutter Architecture · State Management · UI/UX Design  
-- 🧠 Currently Learning: Supabase Auth · Advanced Animations · App Optimization  
+- 🚀 Expertise: Flutter Architecture · State Management · UI/UX Design  
+- 🧠 Currently Learning: Supabase · Cloud Functions · System Design  
 - 🏆 Achievements:  
-  - Built and deployed multiple advanced Flutter apps  
-  - Implemented clean architecture and state management patterns  
+  - Developed multiple full-stack mobile apps using Flutter  
+  - Implemented advanced state management and modular structures  
   - Contributed to open-source Flutter projects  
 
 ---
 
 ## 🛠 Tech Stack
-Flutter · Dart · Firebase · Supabase · Riverpod · Bloc · GetX · Provider · Git · GitHub · Figma · REST APIs  
+**Languages & Frameworks:** Flutter · Dart · Firebase · Supabase · REST APIs  
+**State Management:** Riverpod · Bloc · GetX · Provider  
+**Architecture:** Clean Architecture · MVVM · Modular Design  
+**UI/UX:** Custom Animations · Lottie · Responsive & Adaptive Layouts  
+**Testing & CI/CD:** Unit & Widget Tests · GitHub Actions · Fastlane  
 
-**Core Skills**
-- Architecture: Clean Architecture · MVVM · Modular Design  
-- UI/UX: Responsive Layouts · Custom Animations · Lottie  
-- Backend Integration: Firebase · Supabase · RESTful APIs  
-- Testing & Deployment: Unit and Widget Tests · CI/CD  
+---
+
+## ⚙️ Tools I Use Daily
+**Development:** Visual Studio Code · Android Studio · Postman  
+**Design:** Figma · Adobe XD  
+**Version Control:** Git · GitHub  
+**Productivity:** Notion · Trello · Linear  
 
 ---
 
 ## 🚀 Featured Projects
 
-### Chat App
-Real-time messaging with authentication, media sharing, and notifications.  
-Tech: Flutter, Firebase, Cloud Firestore, FCM  
+### 💬 Chat App
+Real-time messaging app with authentication, media sharing, and notifications.  
+**Tech:** Flutter, Firebase, Firestore, FCM  
 
-### QuranGlow
-Modern Qur’an reading app with dark/light modes, surah indexing, audio recitations, and offline storage.  
-Tech: Flutter, Riverpod, Hive, Dio  
+---
 
-### Doctor Book
-Appointment-booking system with scheduling, reminders, and patient profiles.  
-Tech: Flutter, Firebase, Cloud Functions  
+### 📖 QuranGlow
+Modern Qur’an reading app with elegant UI, dark/light modes, surah indexing, audio recitations, and offline support.  
+**Tech:** Flutter, Riverpod, Hive, Dio  
 
-### Restaurant Management App
-Manages tables, orders, and menus with real-time kitchen updates and dashboard analytics.  
-Tech: Flutter, Supabase, Riverpod, WebSocket  
+---
 
-### Mazid App
-Auction and bidding platform with real-time updates and intuitive UI.  
-Tech: Flutter, Supabase, Realtime API  
+### 🏥 Doctor Book
+Appointment-booking platform with reminders, scheduling, and secure patient records.  
+**Tech:** Flutter, Firebase, Cloud Functions  
 
-### Wordle Game
-Flutter version of Wordle with daily stats and animations.  
-Tech: Flutter, Shared Preferences  
+---
+
+### 🍽 Restaurant Management App
+Manages tables, orders, and menus with live kitchen updates and analytics dashboard.  
+**Tech:** Flutter, Supabase, Riverpod, WebSocket  
+
+---
+
+### 💰 Mazid App
+Auction and bidding system with live price updates and advanced user interface.  
+**Tech:** Flutter, Supabase Realtime, Modular Architecture  
+
+---
+
+### 🎮 Wordle Game
+Flutter recreation of the Wordle puzzle game with animations and daily statistics.  
+**Tech:** Flutter, Shared Preferences  
 
 ---
 
@@ -65,9 +81,9 @@ Tech: Flutter, Shared Preferences
 
 ## 🏆 Achievements & Certifications
 - Flutter & Dart Advanced – NTI and Self-Study  
-- Built and released production-ready apps using Clean Architecture  
-- Contributed to Flutter open-source projects  
-- Experience in Firebase and Supabase integration  
+- Built production-ready apps with Clean Architecture  
+- Contributor to open-source Flutter packages  
+- Deep experience integrating Firebase and Supabase  
 
 ---
 
@@ -78,4 +94,4 @@ Tech: Flutter, Shared Preferences
 
 ---
 
-> “I build complete, efficient, and beautiful software — from backend logic to Flutter interfaces, combining creativity with engineering discipline.”
+> “I build complete, efficient, and beautiful software — combining creativity, clean architecture, and engineering precision.”
