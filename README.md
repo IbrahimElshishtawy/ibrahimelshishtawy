@@ -1,6 +1,6 @@
 <!-- Animated Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Ibrahim+El-Shishtawy;🚀+Advanced+Flutter+Developer;💡+Becoming+a+Full+Software+Engineer;✨+Building+Fast,+Clean,+and+Beautiful+Apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=+Hi,+I'm+Ibrahim+El-Shishtawy;+Advanced+Flutter+Developer;+Becoming+a+Full+Software+Engineer;+Building+Fast,+Clean,+and+Beautiful+Apps" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -17,16 +17,19 @@
 ---
 
 ## 🌟 About Me
-I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** dedicated to crafting **performant, elegant, and scalable** mobile applications.
+I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** passionate about building **performant, elegant, and scalable** mobile apps.
 
 ### 🎯 Vision & Goals
-To evolve into a **Full Software Engineer** capable of handling the complete software lifecycle — backend logic, APIs, cloud integration, and front-end excellence.  
-I focus on **system design, maintainable code, and modern UI/UX principles**.
+To evolve into a **Full Software Engineer** who designs and builds complete solutions — from backend systems to beautiful front-end experiences.  
+I focus on **clean architecture, usability, and performance**.
 
 - 🎓 IT Student – Faculty of Computers & Information, Tanta University  
-- 🚀 Expertise in Flutter Architecture · State Management · Clean Code  
-- 🧠 Currently Learning Supabase · Cloud Functions · System Design  
-- 🏆 Achievements include building and deploying multiple full-stack Flutter apps  
+- 🚀 Expertise: Flutter Architecture · State Management · UI/UX Design  
+- 🧠 Learning: Supabase · Cloud Functions · System Design  
+- 🏆 Achievements:  
+  - Developed multiple production-level Flutter apps  
+  - Implemented modular and scalable architectures  
+  - Contributed to open-source Flutter packages  
 
 ---
 
@@ -47,7 +50,7 @@ Visual Studio Code · Android Studio · Postman · Figma · Adobe XD · Git · G
 ## 🚀 Featured Projects
 
 ### 💬 Chat App
-Real-time messaging with authentication, media sharing, and push notifications.  
+Real-time messaging with authentication, media sharing, and notifications.  
 **Tech:** Flutter · Firebase · Firestore · FCM  
 
 ---
@@ -65,31 +68,45 @@ Appointment booking app with reminders and secure patient records.
 ---
 
 ### 🍽 Restaurant Management App
-Handles tables, orders, and menus with live kitchen updates and dashboard analytics.  
+Manages tables, orders, and menus with live kitchen updates and analytics dashboard.  
 **Tech:** Flutter · Supabase · Riverpod · WebSocket  
 
 ---
 
 ### 💰 Mazid App
-Auction and bidding platform with real-time price updates and intuitive UI.  
+Auction and bidding platform with real-time updates and intuitive UI.  
 **Tech:** Flutter · Supabase Realtime · Modular Architecture  
 
 ---
 
 ### 🎮 Wordle Game
-Animated Flutter implementation of Wordle with daily stats and colorful transitions.  
+Animated Flutter implementation of Wordle with daily stats and transitions.  
 **Tech:** Flutter · Shared Preferences  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimshishtawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshishtawy&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- Graph activity -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimshishtawy&custom_title=Contribution%20Activity&radius=8&area=true&hide_border=true&theme=github-dark" height="260" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshishtawy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- Summary card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimshishtawy&theme=github_dark" height="230" />
+</p>
+
+<p align="center">
+  <!-- Languages charts -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibrahimshishtawy&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimshishtawy&theme=github_dark" height="180" />
+</p>
+
+<p align="center">
+  <!-- Stats and streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimshishtawy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshishtawy&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -97,15 +114,23 @@ Animated Flutter implementation of Wordle with daily stats and colorful transiti
 ## 🏆 Achievements & Certifications
 - Flutter & Dart Advanced – NTI and Self-Study  
 - Built production-ready apps with Clean Architecture  
-- Contributor to Flutter open-source packages  
-- Experienced with Firebase and Supabase integration  
+- Contributor to open-source Flutter packages  
+- Deep experience integrating Firebase and Supabase  
 
 ---
 
 ## 📬 Contact Me
-📧 **Email:** [shishtawyhima@gmail.com](mailto:shishtawyhima@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a](https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a)  
-📱 **Phone:** 01223070571  
+<p align="center">
+  <a href="mailto:shishtawyhima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201223070571" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
