@@ -1,105 +1,67 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Ibrahim+El-Shishtawy;Advanced+Flutter+Developer;Clean+Architecture+%7C+State+Management+%7C+CI%2FCD;Flutter+%7C+C%2B%2B+%7C+Java+%7C+JavaScript+%7C+Python" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Ibrahim+El-Shishtawy;Advanced+Flutter+Developer;Clean+Architecture+%7C+State+Management+%7C+CI%2FCD;Building+Fast%2C+Scalable%2C+Maintainable+Apps" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ibrahimshishtawy/ibrahimshishtawy/raw/main/assets/flutter_avatar.gif" width="150" alt="Flutter Avatar"/>
-</p>
-
-<p align="center">
-  <b>Advanced Flutter Developer · Clean Architecture · Scalable State Management · High-Quality UI/UX</b>
+  <b>Advanced Flutter Developer · Clean Architecture · State Management · Testing · CI/CD</b>
 </p>
 
 ---
 
-## 👋 About Me
-I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** focused on delivering **performant, scalable, and maintainable** applications.
-I care about **clean code, architecture, testing, automation, and great user experience** — and I’m growing into a **Full Software Engineer** mindset.
-
-- 🎓 IT Student — Faculty of Computers & Information, Tanta University  
-- 🎯 Focus: Architecture · State Management · Performance · Testing · CI/CD  
-- 🧠 Strong in: Problem Solving · Clean Code · Professional Code Organization  
+## 👋 About
+I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** focused on building **scalable, maintainable, and high-performance** applications.
+I care about **clean code, architecture, testing, automation, and great UX**.
 
 ---
 
-## ✅ What I Deliver (Professional Capabilities)
-
+## ✅ What I Can Do (Real Deliverables)
 ### 📱 Flutter Engineering
-- Production-ready Flutter apps with **Clean Architecture / MVVM / Modular Design**
-- Professional code structuring (feature-first, layered, scalable modules)
-- Performance optimization (rendering, async, caching, memory)
+- Clean Architecture / MVVM / Modular (feature-first structure)
+- High-performance UI with responsive layouts and reusable components
+- Theming (Light/Dark), Fonts system, design tokens & consistent UI
 
 ### 🧠 State Management (Multi-Approach)
-I can build scalable state using:
-- **GetX** · **Bloc/Cubit** · **Riverpod** · **Provider** · **Redux** · **MobX**
-- Choosing the right tool per project complexity and team style
+**GetX · Bloc/Cubit · Riverpod · Provider · Redux · MobX**  
+I can choose the best approach based on project size, team style, and testability needs.
 
-### 🎨 UI/UX & Animations
-- Advanced UI implementation with responsive layouts
-- Animations: implicit/explicit, custom transitions, micro-interactions
-- Theming system (Light/Dark) + **Fonts** + consistent design tokens
-
-### 🌐 Networking & Integrations
-- REST APIs, Dio/http, interceptors, error handling, retry strategies
-- Pagination, caching, offline-first patterns when needed
-- Notifications & messaging integration (push/local) with clean handling
+### 🌐 Networking & Notifications
+- REST APIs (Dio/http), interceptors, retry, error handling, pagination
+- Push/Local Notifications with clean routing & deep linking patterns
 
 ### 🧪 Testing & Quality
 - Unit / Widget / Integration testing foundations
-- Clean code practices: SOLID, DRY, readable and maintainable code
-- Debugging, profiling, and preventing regressions
+- Clean Code, SOLID, refactoring, debugging & performance profiling
 
-### 🚀 CI/CD & Delivery
+### 🚀 CI/CD
 - GitHub Actions pipelines
-- Automated build/release flows (Fastlane when needed)
-- Versioning, environments, flavors, and release readiness
+- Automated builds/releases, flavors/environments, versioning
 
 ---
 
-## 🛠 Tech Stack
-
-### Mobile
-Flutter · Dart
-
-### State Management
-GetX · Bloc/Cubit · Riverpod · Provider · Redux · MobX
-
-### Architecture & Code Quality
-Clean Architecture · MVVM · SOLID · Design Patterns · Feature Modules · Clean Code
-
-### UI/UX
-Responsive UI · Animations · Theming (Light/Dark) · Fonts
-
-### Networking & Services
-REST APIs · Dio/http · Notifications (Push/Local)
-
-### Testing & DevOps
-Unit/Widget/Integration Tests · GitHub Actions · CI/CD · Fastlane
+## 🧰 Tech & Languages
+**Mobile:** Flutter · Dart  
+**DevOps:** GitHub Actions · CI/CD  
+**Languages:** C# · Python · C++ · Java · JavaScript · MATLAB · HTML
 
 ---
 
-## 💻 Programming Languages
-Dart · **C++** · **C#** · **Python** · **Java** · **JavaScript** · **MATLAB** · HTML
+## ⭐ Best Work (Pinned Repos)
+> Pin your best repos on GitHub profile, and link them هنا.
 
----
-
-## ⚙️ Tools
-VS Code · Android Studio · Postman · Git/GitHub · Figma · Notion · Trello · Linear
+- 🔗 **Repo 1:** [Your Best Flutter Architecture Repo](https://github.com/USERNAME/REPO_NAME)
+- 🔗 **Repo 2:** [State Management / Clean Architecture Demo](https://github.com/USERNAME/REPO_NAME)
+- 🔗 **Repo 3:** [CI/CD Pipeline / Testing Setup](https://github.com/USERNAME/REPO_NAME)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimshishtawy&custom_title=Contribution%20Activity&radius=10&area=true&hide_border=true&theme=github-dark" height="260" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahimshishtawy&theme=github_dark" height="230" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimshishtawy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimshishtawy&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -115,10 +77,6 @@ VS Code · Android Studio · Postman · Git/GitHub · Figma · Notion · Trello 
   <a href="https://wa.me/201223070571" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 > “I build scalable mobile software with clean architecture, strong state management, testing, and automation.”
