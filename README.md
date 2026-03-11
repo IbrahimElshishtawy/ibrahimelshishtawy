@@ -1,107 +1,108 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,30:0A1628,60:0D2E6B,100:0066FF&height=220&section=header&text=Ibrahim%20El-Shishtawy&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Advanced%20Flutter%20Developer%20%7C%20Clean%20Architecture%20%7C%20CI%2FCD&descAlignY=55&descSize=17&descColor=4DA6FF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1622,40:0F2137,80:113652,100:1A4A6E&height=200&section=header&text=Ibrahim%20El-Shishtawy&fontSize=52&fontColor=E8F4FD&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%94%20Clean%20Architecture%20%C2%B7%20CI%2FCD%20%C2%B7%20UI%2FUX&descAlignY=58&descSize=16&descColor=7EB8D4&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0066FF&center=true&vCenter=true&width=750&lines=Building+Production-Grade+Flutter+Apps;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns;GetX+%7C+Bloc+%7C+Riverpod+%7C+Redux+%7C+MobX;Testing+%7C+CI%2FCD+%7C+GitHub+Actions;High-Quality+UI%2FUX+%26+Smooth+Animations)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=7EB8D4&center=true&vCenter=true&width=680&lines=Building+production-grade+Flutter+apps+%F0%9F%93%B1;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Design+Patterns;GetX+%C2%B7+Bloc+%C2%B7+Riverpod+%C2%B7+Redux+%C2%B7+MobX;Testing+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions;Smooth+UI%2FUX+%C2%B7+Animations+%C2%B7+Responsive)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
 <a href="mailto:shishtawyhima@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-shishtawyhima%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Gmail-shishtawyhima%40gmail.com-C8E6F5?style=flat-square&logo=gmail&logoColor=7EB8D4&labelColor=0F2137&color=1A3D5C"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20El--Sheshtawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E" />
+&ensp;
+<a href="https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a">
+  <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20El--Sheshtawy-C8E6F5?style=flat-square&logo=linkedin&logoColor=7EB8D4&labelColor=0F2137&color=1A3D5C"/>
 </a>
-&nbsp;
-<a href="https://wa.me/201223070571" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B20%20122%20307%200571-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0F1E" />
+&ensp;
+<a href="https://wa.me/201223070571">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B20%20122%20307%200571-C8E6F5?style=flat-square&logo=whatsapp&logoColor=7EB8D4&labelColor=0F2137&color=1A3D5C"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahimelshishtawy&style=for-the-badge&color=0066FF&labelColor=0A0F1E&label=PROFILE+VIEWS)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0A0F1E)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0A0F1E)
+![Views](https://komarev.com/ghpvc/?username=ibrahimelshishtawy&style=flat-square&color=1A4A6E&labelColor=0F2137&label=profile+views)
+&ensp;
+![Flutter](https://img.shields.io/badge/Flutter-advanced-7EB8D4?style=flat-square&logo=flutter&logoColor=7EB8D4&labelColor=0F2137)
+&ensp;
+![Dart](https://img.shields.io/badge/Dart-advanced-7EB8D4?style=flat-square&logo=dart&logoColor=7EB8D4&labelColor=0F2137)
+&ensp;
+![Open](https://img.shields.io/badge/open%20to%20work-yes-A8D5B5?style=flat-square&labelColor=0F2137)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## &nbsp;👨‍💻 &nbsp;About Me
+
+<table>
+<tr>
+<td valign="middle" width="54%">
 
 ```dart
-/// Advanced Flutter Developer focused on shipping
-/// production-grade mobile applications that scale.
-
 class IbrahimElShishtawy extends FlutterDeveloper {
 
-  @override
-  final String name = "Ibrahim El-Shishtawy";
+  final String name     = "Ibrahim El-Shishtawy";
+  final String role     = "Advanced Flutter Developer";
+  final String location = "Egypt  🇪🇬";
+  final String edu      =
+    "Computers & Information — Tanta University";
 
-  @override
-  final String role = "Advanced Flutter Developer";
-
-  @override
-  final String university =
-      "Faculty of Computers & Information — Tanta University";
-
-  @override
-  final String location = "Egypt 🇪🇬";
-
-  @override
-  final List<String> currentFocus = [
-    "Production-Grade Flutter Applications",
-    "Clean Architecture & Scalable Design",
-    "Automated Testing & CI/CD Pipelines",
-    "High-Quality UI/UX with Animations",
+  final List<String> focus = [
+    "Production-Grade Mobile Apps",
+    "Clean Architecture  ·  SOLID",
+    "CI/CD  ·  Automated Testing",
+    "Smooth UI/UX  ·  Animations",
   ];
 
-  @override
-  final Map<String, List<String>> stateManagement = {
-    "reactive":  ["GetX", "MobX"],
+  final Map<String, List<String>> state = {
+    "reactive"      : ["GetX", "MobX"],
     "unidirectional": ["Bloc", "Cubit", "Redux"],
-    "declarative": ["Riverpod", "Provider"],
+    "declarative"   : ["Riverpod", "Provider"],
   };
 
-  @override
-  String get philosophy =>
-      "Build software that's fast, testable, and built to last.";
+  String get motto =>
+    "Fast · Testable · Built to last.";
 
-  @override
   bool get openToWork => true;
 }
 ```
 
+</td>
+<td valign="middle" width="46%" align="center">
+
+<img src="assets/flutter_mobile.svg" width="240" alt="Flutter Mobile"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Flutter Expertise — Full Breakdown
+## &nbsp;🚀 &nbsp;Flutter Expertise
 
 <details>
-<summary><b>📱 Flutter Core & Architecture</b></summary>
+<summary>&nbsp;<b>📱&nbsp; Flutter Core &amp; Architecture</b></summary>
 <br/>
 
 | Area | Details |
 |------|---------|
-| **Architecture** | Clean Architecture, MVVM, Feature-First Modular |
-| **Layers** | Presentation → Domain → Data (strict separation) |
-| **DI** | get_it, injectable, GetX bindings |
-| **Navigation** | GoRouter, AutoRoute, GetX routing |
-| **Code Quality** | SOLID, DRY, KISS, Design Patterns |
-| **Async** | Future, Stream, Isolates, Compute |
+| **Architecture** | Clean Architecture · MVVM · Feature-First Modular |
+| **Layers** | Presentation → Domain → Data |
+| **DI** | get_it · injectable · GetX bindings |
+| **Navigation** | GoRouter · AutoRoute · GetX routing |
+| **Code Quality** | SOLID · DRY · KISS · Design Patterns |
+| **Async** | Future · Stream · Isolates · Compute |
 
 </details>
 
 <details>
-<summary><b>🧠 State Management (All Patterns)</b></summary>
+<summary>&nbsp;<b>🧠&nbsp; State Management — All Patterns</b></summary>
 <br/>
 
 | Library | Pattern | Best For |
@@ -109,211 +110,212 @@ class IbrahimElShishtawy extends FlutterDeveloper {
 | **GetX** | Reactive / Observer | Rapid dev, small-medium apps |
 | **Bloc / Cubit** | Unidirectional / Event-State | Large apps, strict separation |
 | **Riverpod** | Declarative / Provider 2.0 | Testable, compile-safe |
-| **Provider** | InheritedWidget wrapper | Simple state, small apps |
+| **Provider** | InheritedWidget wrapper | Simple state |
 | **Redux** | Unidirectional / Flux | Predictable global state |
 | **MobX** | Reactive / Observable | Code-gen, reactive UI |
 
 </details>
 
 <details>
-<summary><b>🎨 UI/UX & Animations</b></summary>
+<summary>&nbsp;<b>🎨&nbsp; UI/UX &amp; Animations</b></summary>
 <br/>
 
-| Feature | Tools & Approach |
-|---------|-----------------|
-| **Responsive UI** | LayoutBuilder, MediaQuery, flutter_screenutil |
-| **Implicit Animations** | AnimatedContainer, AnimatedOpacity, TweenAnimationBuilder |
-| **Explicit Animations** | AnimationController, Tween, CurvedAnimation |
-| **Hero Transitions** | Hero widget, custom page routes |
-| **Custom Painters** | CustomPainter, Canvas API, path drawing |
-| **Lottie & Rive** | Complex animations from design tools |
-| **Themes** | ThemeData, ColorScheme, TextTheme, Design Tokens |
-| **Slivers** | SliverAppBar, SliverList, CustomScrollView |
+| Feature | Tools |
+|---------|-------|
+| **Responsive UI** | LayoutBuilder · MediaQuery · flutter_screenutil |
+| **Implicit Animations** | AnimatedContainer · TweenAnimationBuilder |
+| **Explicit Animations** | AnimationController · Tween · CurvedAnimation |
+| **Custom Painters** | CustomPainter · Canvas API |
+| **Lottie & Rive** | Complex design-tool animations |
+| **Themes** | ThemeData · ColorScheme · Design Tokens |
+| **Slivers** | SliverAppBar · CustomScrollView |
 
 </details>
 
 <details>
-<summary><b>🌐 Networking & Backend Integration</b></summary>
+<summary>&nbsp;<b>🌐&nbsp; Networking &amp; Backend</b></summary>
 <br/>
 
 | Area | Details |
 |------|---------|
-| **HTTP Client** | Dio, http — with interceptors & retry logic |
-| **REST APIs** | Full CRUD, pagination, error handling |
-| **WebSocket** | Real-time communication when needed |
-| **Firebase** | Auth, Firestore, Storage, FCM, Analytics |
-| **Local Storage** | SharedPreferences, Hive, Isar, sqflite |
-| **Caching** | flutter_cache_manager, offline-first patterns |
-| **Serialization** | json_serializable, freezed, dart_mappable |
+| **HTTP** | Dio · http — interceptors, retry, error handling |
+| **REST APIs** | CRUD · pagination · caching |
+| **Firebase** | Auth · Firestore · Storage · FCM · Analytics |
+| **Local Storage** | Hive · Isar · sqflite · SharedPreferences |
+| **Serialization** | json_serializable · freezed · dart_mappable |
 
 </details>
 
 <details>
-<summary><b>🧪 Testing Strategy</b></summary>
+<summary>&nbsp;<b>🧪&nbsp; Testing Strategy</b></summary>
 <br/>
 
-| Type | Tools | Coverage |
-|------|-------|---------|
-| **Unit Tests** | flutter_test, mockito, mocktail | Business logic, use cases |
-| **Widget Tests** | flutter_test, finder APIs | UI components, interactions |
-| **Integration Tests** | integration_test | Full user flows, E2E |
-| **Golden Tests** | golden_toolkit | UI regression prevention |
-| **Mocking** | mockito, mocktail | Dependency isolation |
+| Type | Tools | Covers |
+|------|-------|--------|
+| **Unit** | flutter_test · mockito · mocktail | Business logic |
+| **Widget** | flutter_test · finder APIs | UI components |
+| **Integration** | integration_test | Full E2E flows |
+| **Golden** | golden_toolkit | UI regression |
 
 </details>
 
 <details>
-<summary><b>🚀 CI/CD & DevOps</b></summary>
+<summary>&nbsp;<b>⚙️&nbsp; CI/CD &amp; DevOps</b></summary>
 <br/>
 
 | Stage | Tools |
 |-------|-------|
-| **Version Control** | Git, GitHub, branching strategies |
-| **CI Pipeline** | GitHub Actions — lint, test, build |
-| **Code Quality** | flutter analyze, dart format, custom lint rules |
-| **Release Automation** | Fastlane, versioning, changelogs |
-| **Environments** | Flutter flavors — dev / staging / production |
-| **Distribution** | Firebase App Distribution, TestFlight, Play Console |
+| **CI Pipeline** | GitHub Actions — lint · test · build |
+| **Release** | Fastlane · versioning · changelogs |
+| **Environments** | Flutter flavors — dev / staging / prod |
+| **Distribution** | Firebase App Distribution · Play Console · TestFlight |
 
 </details>
 
 ---
 
-## 🛠 Full Tech Stack
+## &nbsp;🛠 &nbsp;Tech Stack
 
 <div align="center">
 
-**📱 Flutter & Dart**
+**Core**&ensp;
+![Flutter](https://img.shields.io/badge/Flutter-0F2137?style=flat-square&logo=flutter&logoColor=7EB8D4)
+![Dart](https://img.shields.io/badge/Dart-0F2137?style=flat-square&logo=dart&logoColor=7EB8D4)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<br/>
 
-**🧠 State Management**
+**State Management**&ensp;
+![GetX](https://img.shields.io/badge/GetX-0F2137?style=flat-square&logoColor=7EB8D4)
+![Bloc](https://img.shields.io/badge/Bloc-0F2137?style=flat-square&logoColor=7EB8D4)
+![Cubit](https://img.shields.io/badge/Cubit-0F2137?style=flat-square&logoColor=7EB8D4)
+![Riverpod](https://img.shields.io/badge/Riverpod-0F2137?style=flat-square&logoColor=7EB8D4)
+![Provider](https://img.shields.io/badge/Provider-0F2137?style=flat-square&logoColor=7EB8D4)
+![Redux](https://img.shields.io/badge/Redux-0F2137?style=flat-square&logo=redux&logoColor=7EB8D4)
+![MobX](https://img.shields.io/badge/MobX-0F2137?style=flat-square&logoColor=7EB8D4)
 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-005FA3?style=for-the-badge&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-1565C0?style=for-the-badge&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0096C7?style=for-the-badge&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![MobX](https://img.shields.io/badge/MobX-FF7102?style=for-the-badge&logoColor=white)
+<br/>
 
-**🏗 Architecture**
+**Architecture**&ensp;
+![Clean Arch](https://img.shields.io/badge/Clean%20Architecture-0F2137?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-0F2137?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-0F2137?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0F2137?style=flat-square)
 
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0D47A1?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-1565C0?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-0277BD?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-01579B?style=for-the-badge)
+<br/>
 
-**🌐 Networking & Storage**
+**Backend & Storage**&ensp;
+![Dio](https://img.shields.io/badge/Dio-0F2137?style=flat-square&logoColor=7EB8D4)
+![Firebase](https://img.shields.io/badge/Firebase-0F2137?style=flat-square&logo=firebase&logoColor=7EB8D4)
+![Hive](https://img.shields.io/badge/Hive-0F2137?style=flat-square&logoColor=7EB8D4)
+![SQLite](https://img.shields.io/badge/SQLite-0F2137?style=flat-square&logo=sqlite&logoColor=7EB8D4)
 
-![Dio](https://img.shields.io/badge/Dio-0066FF?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
-**🧪 Testing**
+**Testing**&ensp;
+![Unit](https://img.shields.io/badge/Unit%20Testing-0F2137?style=flat-square&logoColor=A8D5B5)
+![Widget](https://img.shields.io/badge/Widget%20Testing-0F2137?style=flat-square&logoColor=A8D5B5)
+![Integration](https://img.shields.io/badge/Integration-0F2137?style=flat-square&logoColor=A8D5B5)
+![Mockito](https://img.shields.io/badge/Mockito-0F2137?style=flat-square&logoColor=A8D5B5)
 
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-2E7D32?style=for-the-badge)
-![Widget Testing](https://img.shields.io/badge/Widget%20Testing-388E3C?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-43A047?style=for-the-badge)
-![Mockito](https://img.shields.io/badge/Mockito-66BB6A?style=for-the-badge)
+<br/>
 
-**🚀 DevOps & Tools**
+**DevOps**&ensp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F2137?style=flat-square&logo=github-actions&logoColor=7EB8D4)
+![Fastlane](https://img.shields.io/badge/Fastlane-0F2137?style=flat-square&logo=fastlane&logoColor=7EB8D4)
+![Git](https://img.shields.io/badge/Git-0F2137?style=flat-square&logo=git&logoColor=7EB8D4)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F2137?style=flat-square&logo=visual-studio-code&logoColor=7EB8D4)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0F2137?style=flat-square&logo=android-studio&logoColor=7EB8D4)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<br/>
 
-**💻 Other Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+**Languages**&ensp;
+![C#](https://img.shields.io/badge/C%23-0F2137?style=flat-square&logo=c-sharp&logoColor=7EB8D4)
+![Python](https://img.shields.io/badge/Python-0F2137?style=flat-square&logo=python&logoColor=7EB8D4)
+![Java](https://img.shields.io/badge/Java-0F2137?style=flat-square&logo=openjdk&logoColor=7EB8D4)
+![C++](https://img.shields.io/badge/C++-0F2137?style=flat-square&logo=c%2B%2B&logoColor=7EB8D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F2137?style=flat-square&logo=javascript&logoColor=7EB8D4)
+![MATLAB](https://img.shields.io/badge/MATLAB-0F2137?style=flat-square&logoColor=7EB8D4)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## &nbsp;📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=020818&title_color=0066FF&icon_color=0D47A1&text_color=4DA6FF&ring_color=0066FF" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&theme=tokyonight&hide_border=true&background=020818&ring=0066FF&fire=0D47A1&currStreakLabel=4DA6FF&sideLabels=4DA6FF&dates=4DA6FF" height="175"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&theme=tokyonight&bg_color=020818&title_color=0066FF&text_color=4DA6FF&langs_count=8" height="155"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&count_private=true&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&text_color=C8E6F5&ring_color=1A4A6E" height="170"/>
+&ensp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&hide_border=true&background=0B1622&ring=1A4A6E&fire=4A90B8&currStreakLabel=7EB8D4&sideLabels=7EB8D4&dates=5A8AA8&stroke=0F2137" height="170"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=020818&color=0066FF&line=0D47A1&point=4DA6FF&area=true&area_color=0D2E6B&hide_border=true" width="96%"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&langs_count=8" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=0B1622&color=7EB8D4&line=1A4A6E&point=4A90B8&area=true&area_color=113652&hide_border=true" width="96%"/>
+
 </div>
 
 ---
 
-## 📌 Featured Projects
+## &nbsp;📌 &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏗 Clean Architecture Template</h3>
+<h3 align="center">🏗&nbsp; Clean Architecture Template</h3>
 <p align="center">
   <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=020818&title_color=0066FF&icon_color=0D47A1&hide_border=true&text_color=4DA6FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&hide_border=true&text_color=C8E6F5"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0D47A1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Dio-0066FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clean%20Arch-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GetX-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dio-0F2137?style=flat-square"/>
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🧠 State Management Showcase</h3>
+<h3 align="center">🧠&nbsp; State Management Showcase</h3>
 <p align="center">
   <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=020818&title_color=0066FF&icon_color=0D47A1&hide_border=true&text_color=4DA6FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&hide_border=true&text_color=C8E6F5"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Bloc-005FA3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bloc-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Riverpod-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Redux-0F2137?style=flat-square"/>
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 CI/CD + Testing Pipeline</h3>
+<h3 align="center">⚙️&nbsp; CI/CD + Testing Pipeline</h3>
 <p align="center">
   <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=020818&title_color=0066FF&icon_color=0D47A1&hide_border=true&text_color=4DA6FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&hide_border=true&text_color=C8E6F5"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Unit%20Tests-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0F2137?style=flat-square&logo=github-actions&logoColor=7EB8D4"/>
+  <img src="https://img.shields.io/badge/Fastlane-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Unit%20Tests-0F2137?style=flat-square"/>
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🎨 UI & Animations Pack</h3>
+<h3 align="center">🎨&nbsp; UI &amp; Animations Pack</h3>
 <p align="center">
   <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=020818&title_color=0066FF&icon_color=0D47A1&hide_border=true&text_color=4DA6FF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&hide_border=true&text_color=C8E6F5"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Animations-FF7102?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CustomPainter-0066FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Responsive-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Animations-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CustomPainter-0F2137?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Responsive-0F2137?style=flat-square"/>
 </p>
 </td>
 </tr>
@@ -321,14 +323,15 @@ class IbrahimElShishtawy extends FlutterDeveloper {
 
 ---
 
-## 🎓 Education & Certifications
+## &nbsp;🎓 &nbsp;Education
 
 <div align="center">
 
-| 🎓 | Faculty of Computers & Information — **Tanta University** |
+| | |
 |---|---|
-| 📚 | Computer Science & Information Technology |
-| 🔬 | Focus: Software Engineering · Mobile Development · Algorithms |
+| 🎓 &nbsp;**Tanta University** | Faculty of Computers & Information |
+| 📚 &nbsp;**Major** | Computer Science & Information Technology |
+| 🔬 &nbsp;**Focus** | Software Engineering · Mobile Development · Algorithms |
 
 </div>
 
@@ -336,27 +339,20 @@ class IbrahimElShishtawy extends FlutterDeveloper {
 
 <div align="center">
 
-### 💬 Engineering Philosophy
-
 <br/>
 
 > *"Good architecture is not about being clever —*
-> *it's about making the next developer's job obvious.*
-> *Clean code, predictable behavior, and automated confidence.*
-> *That's how software scales."*
->
-> — **Ibrahim El-Shishtawy**
+> *it's about making the next developer's job obvious."*
 
 <br/>
 
-**⚡ Available for freelance projects & collaborations**
-
+**Available for freelance &amp; collaborations**&ensp;·&ensp;
 <a href="mailto:shishtawyhima@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me-Get%20in%20Touch-0066FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" />
+  <img src="https://img.shields.io/badge/Get%20in%20Touch-0F2137?style=flat-square&logo=gmail&logoColor=7EB8D4&color=1A3D5C"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:0D47A1,100:020818&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4A6E,50:113652,100:0B1622&height=110&section=footer&animation=fadeIn"/>
 
 </div>
