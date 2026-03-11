@@ -1,131 +1,227 @@
-<!-- =========================
-     Ibrahim El-Shishtawy README
-     Professional GitHub Profile
-========================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Ibrahim+El-Shishtawy;Advanced+Flutter+Developer;Clean+Architecture+%7C+State+Management+%7C+CI%2FCD;Building+Fast%2C+Scalable%2C+Maintainable+Apps"
-    alt="Typing Animation"
-  />
-</p>
+<!-- Dynamic header with custom styling -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0D47A1,100:00C4FF&height=200&section=header&text=Ibrahim%20El-Shishtawy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Advanced%20Flutter%20Developer&descAlignY=58&descSize=20&descColor=64B5F6&animation=fadeIn" />
 
-<p align="center">
-  <b>Advanced Flutter Developer · Clean Architecture · Testing · CI/CD · High-Quality UI/UX</b>
-</p>
+</div>
 
-<p align="center">
-  <a href="mailto:shishtawyhima@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201223070571" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:shishtawyhima@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shishtawyhima%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1E" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ibrahim-el-sheshtawy-0a67b334a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1E" />
+</a>
+&nbsp;
+<a href="https://wa.me/201223070571" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B20122307 0571-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0F1E" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahimelshishtawy&style=for-the-badge&color=0D47A1&labelColor=0A0F1E&label=PROFILE+VIEWS)
+![Years Badge](https://img.shields.io/badge/FOCUS-Flutter%20%26%20Dart-00C4FF?style=for-the-badge&labelColor=0A0F1E)
+
+</div>
+
+---
+```dart
+class IbrahimElShishtawy extends FlutterDeveloper {
+
+  @override
+  String get title => "Advanced Flutter Developer";
+
+  @override
+  String get university => "Faculty of Computers & Information — Tanta University";
+
+  @override
+  List<String> get coreStrengths => [
+    "Clean Architecture & Scalable Codebases",
+    "Multi-Pattern State Management",
+    "Testing · CI/CD · Release Automation",
+    "High-Quality UI/UX & Animations",
+  ];
+
+  @override
+  String get philosophy =>
+    "Build software that's fast, testable, and built to last.";
+}
+` ` `
 
 ---
 
-## 👋 About
-I'm **Ibrahim El-Shishtawy**, an **Advanced Flutter Developer** specialized in building **production-grade mobile applications** with a strong focus on:
+## ⚡ What I Build
 
-- **Clean Architecture & maintainable codebases**
-- **Scalable state management** for real-world apps
-- **Testing & CI/CD** for reliable delivery
-- **High-quality UI/UX** with smooth animations and responsive layouts
+<table>
+<tr>
+<td width="50%">
 
-I work with a **software engineering mindset**: clear structure, predictable behavior, performance, and long-term maintainability.
+### 📱 Flutter Engineering
+Production-grade mobile apps built with **Clean Architecture**, feature-first modular structure, and reusable components. Every layer is intentional — from domain to presentation.
 
----
+</td>
+<td width="50%">
 
-## ✅ What I Deliver (Professional Capabilities)
+### 🧠 State Management
+Deep expertise across **GetX · Bloc/Cubit · Riverpod · Provider · Redux · MobX** — I choose the right tool for the right job, not the fashionable one.
 
-### 📱 Flutter Engineering (Production-Level)
-- Clean Architecture / MVVM / Modular structure (feature-first)
-- Professional code organization and reusable components
-- Performance optimization and clean async patterns
-
-### 🧠 State Management (Multi-Approach)
-Experienced with:
-- **GetX** · **Bloc/Cubit** · **Riverpod** · **Provider** · **Redux** · **MobX**
-- Selecting the right approach based on project complexity and team needs
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🎨 UI/UX & Animations
-- Responsive UI (mobile/tablet), design consistency, reusable UI kits
-- Animations (implicit/explicit), custom transitions, micro-interactions
-- Themes (Light/Dark), Fonts system, and design tokens
+Responsive layouts, custom transitions, micro-interactions, and design tokens. Light/Dark themes with consistent, scalable design systems.
 
-### 🌐 Networking & Notifications
-- REST APIs with Dio/http, interceptors, error handling, retries
-- Pagination, caching, and offline-first patterns when needed
-- Push & Local notifications with clean routing patterns
+</td>
+<td width="50%">
 
-### 🧪 Testing & Code Quality
-- Unit / Widget / Integration testing foundations
-- Clean Code, SOLID, refactoring, and readable architecture
-- Strong debugging, profiling, and problem solving
+### 🚀 CI/CD & DevOps
+GitHub Actions pipelines, build automation, versioning, environment flavors, and release readiness baked in from day one.
 
-### 🚀 CI/CD & Delivery
-- GitHub Actions pipelines
-- Build automation, release readiness, versioning, environments/flavors
-- Continuous improvement for speed + quality
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🌐 Networking
+REST APIs with **Dio/http**, interceptors, error handling, retry logic, pagination, caching, and offline-first patterns when the product demands it.
 
-## 🧰 Tech Stack
-**Mobile:** Flutter · Dart  
-**State Management:** GetX · Bloc/Cubit · Riverpod · Provider · Redux · MobX  
-**Architecture:** Clean Architecture · MVVM · Modular · SOLID · Design Patterns  
-**UI/UX:** Responsive UI · Animations · Themes · Fonts · Design System  
-**Networking:** REST APIs · Dio/http · WebSocket (when needed)  
-**Testing:** Unit · Widget · Integration  
-**DevOps:** GitHub Actions · CI/CD · Fastlane (when needed)
+</td>
+<td width="50%">
+
+### 🧪 Testing & Quality
+Unit · Widget · Integration testing. Clean Code, SOLID principles, and rigorous refactoring. Code that reads like documentation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Programming Languages
-Dart · C# · Python · C++ · Java · JavaScript · MATLAB · HTML
+## 🛠 Tech Stack
 
----
+<div align="center">
 
-## ⭐ Best Work (Pin Repos on Profile)
-> Pin your best repositories so visitors can evaluate real code quality quickly.
+**Core**
 
-- **Clean Architecture Template** — scalable structure, layers, DI, conventions  
-- **State Management Showcase** — Bloc/Riverpod/GetX patterns + best practices  
-- **Testing & CI/CD Setup** — tests + GitHub Actions pipeline  
-- **UI/Animations Pack** — responsive UI + animations examples  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-> Add your repo links here:
-- 🔗 [Repo 1 — Clean Architecture](https://github.com/ibrahimelshishtawy/REPO_NAME)
-- 🔗 [Repo 2 — State Management](https://github.com/ibrahimelshishtawy/REPO_NAME)
-- 🔗 [Repo 3 — CI/CD + Testing](https://github.com/ibrahimelshishtawy/REPO_NAME)
-- 🔗 [Repo 4 — UI/Animations](https://github.com/ibrahimelshishtawy/REPO_NAME)
+**State Management**
+
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc%2FCubit-005FA3?style=for-the-badge&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0096C7?style=for-the-badge&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF7102?style=for-the-badge&logoColor=white)
+
+**Architecture & Patterns**
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A0F1E?style=for-the-badge&color=0D47A1)
+![MVVM](https://img.shields.io/badge/MVVM-0A0F1E?style=for-the-badge&color=0D47A1)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-0A0F1E?style=for-the-badge&color=0D47A1)
+
+**DevOps & Tooling**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&bg_color=0A0F1E&title_color=00C4FF&icon_color=0D47A1&text_color=64B5F6" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&theme=tokyonight&hide_border=true&background=0A0F1E&ring=00C4FF&fire=0D47A1&currStreakLabel=64B5F6" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A0F1E&title_color=00C4FF&text_color=64B5F6" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=0A0F1E&color=00C4FF&line=0D47A1&point=64B5F6&area=true&hide_border=true" width="95%"/>
+</div>
 
 ---
 
-## 🎓 Education
-- IT Student — Faculty of Computers & Information, Tanta University
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🏗 Clean Architecture Template</h3>
+<p align="center">
+  <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=0A0F1E&title_color=00C4FF&icon_color=0D47A1&hide_border=true" />
+  </a>
+</p>
+<p align="center">Scalable structure · Layered DI · Feature-first conventions</p>
+</td>
+<td width="50%">
+<h3 align="center">🧠 State Management Showcase</h3>
+<p align="center">
+  <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=0A0F1E&title_color=00C4FF&icon_color=0D47A1&hide_border=true" />
+  </a>
+</p>
+<p align="center">Bloc · Riverpod · GetX patterns compared side-by-side</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 CI/CD + Testing Pipeline</h3>
+<p align="center">
+  <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=0A0F1E&title_color=00C4FF&icon_color=0D47A1&hide_border=true" />
+  </a>
+</p>
+<p align="center">GitHub Actions · Full test suite · Automated releases</p>
+</td>
+<td width="50%">
+<h3 align="center">🎨 UI & Animations Pack</h3>
+<p align="center">
+  <a href="https://github.com/ibrahimelshishtawy/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimelshishtawy&repo=REPO_NAME&theme=tokyonight&bg_color=0A0F1E&title_color=00C4FF&icon_color=0D47A1&hide_border=true" />
+  </a>
+</p>
+<p align="center">Responsive layouts · Custom transitions · Micro-interactions</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Contact
-- Email: **shishtawyhima@gmail.com**
-- LinkedIn: **Ibrahim El-Sheshtawy**
-- WhatsApp: **+20 122 307 0571**
+<div align="center">
 
-> “I build scalable mobile software with clean architecture, strong state management, testing, and automation.”
+### 💬 Philosophy
+
+*"I build scalable mobile software with clean architecture,*
+*strong state management, testing, and automation —*
+*because good software is invisible to the user, but obvious to the team."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:0D47A1,100:0A0F1E&height=120&section=footer&animation=fadeIn" />
+
+</div>
+```
+
+> 📝 استبدل كل `REPO_NAME` بأسماء الـ repositories الحقيقية بتاعتك.
