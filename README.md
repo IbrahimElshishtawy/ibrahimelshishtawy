@@ -27,6 +27,7 @@
 </div>
 
 ---
+
 ```dart
 class IbrahimElShishtawy extends FlutterDeveloper {
 
@@ -48,7 +49,7 @@ class IbrahimElShishtawy extends FlutterDeveloper {
   String get philosophy =>
     "Build software that's fast, testable, and built to last.";
 }
-` ` `
+```
 
 ---
 
@@ -164,6 +165,8 @@ Unit · Widget · Integration testing. Clean Code, SOLID principles, and rigorou
 
 ## 📌 Featured Projects
 
+> Replace the placeholder links below with your actual repositories
+
 <table>
 <tr>
 <td width="50%">
@@ -222,6 +225,3 @@ Unit · Widget · Integration testing. Clean Code, SOLID principles, and rigorou
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,50:0D47A1,100:0A0F1E&height=120&section=footer&animation=fadeIn" />
 
 </div>
-```
-
-> 📝 استبدل كل `REPO_NAME` بأسماء الـ repositories الحقيقية بتاعتك.
