@@ -76,7 +76,7 @@ class IbrahimElShishtawy extends FlutterDeveloper {
 </td>
 <td valign="middle" width="46%" align="center">
 
-<img src="assets/flutter_mobile.svg" width="240" alt="Flutter Mobile"/>
+<img src="flutter_mobile.svg" width="270" alt="Flutter Mobile"/>
 
 </td>
 </tr>
