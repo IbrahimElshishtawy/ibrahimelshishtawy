@@ -37,7 +37,7 @@
 </td>
 <td valign="middle" width="25%" align="center">
 
-<img src="CV.png"
+<img src="My_CV.png"
      width="400"
      style="border-radius: 50%; border: 3px solid #7EB8D4;"
      alt="Ibrahim El-Shishtawy"/>
