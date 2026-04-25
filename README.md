@@ -1,12 +1,12 @@
-<div align="center">
+<table>
+<tr>
+<td valign="middle" width="75%">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1622,40:0F2137,80:113652,100:1A4A6E&height=200&section=header&text=Ibrahim%20El-Shishtawy&fontSize=52&fontColor=E8F4FD&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%94%20Clean%20Architecture%20%C2%B7%20CI%2FCD%20%C2%B7%20UI%2FUX&descAlignY=58&descSize=16&descColor=7EB8D4&animation=fadeIn"/>
 
-</div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=7EB8D4&center=true&vCenter=true&width=680&lines=Building+production-grade+Flutter+apps+%F0%9F%93%B1;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Design+Patterns;GetX+%C2%B7+Bloc+%C2%B7+Riverpod+%C2%B7+Redux+%C2%B7+MobX;Testing+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions;Smooth+UI%2FUX+%C2%B7+Animations+%C2%B7+Responsive)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1400&color=7EB8D4&center=true&vCenter=true&width=580&lines=Building+production-grade+Flutter+apps+%F0%9F%93%B1;Clean+Architecture+%C2%B7+SOLID+%C2%B7+Design+Patterns;GetX+%C2%B7+Bloc+%C2%B7+Riverpod+%C2%B7+Redux+%C2%B7+MobX;Testing+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions;Smooth+UI%2FUX+%C2%B7+Animations+%C2%B7+Responsive)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,9 +34,23 @@
 
 </div>
 
+</td>
+<td valign="middle" width="25%" align="center">
+
+<img src="ChatGPT Image Apr 25, 2026, 01_32_19 PM.png"
+     width="400"
+     style="border-radius: 50%; border: 3px solid #7EB8D4;"
+     alt="Ibrahim El-Shishtawy"/>
+
+
+
+![Status](https://img.shields.io/badge/Open%20To%20Work-✅-A8D5B5?style=flat-square&labelColor=0F2137)
 <br/>
 
----
+
+</td>
+</tr>
+</table>
 
 ## &nbsp;👨‍💻 &nbsp;About Me
 
