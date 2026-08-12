@@ -48,6 +48,20 @@
 </tr>
 </table>
 
+<div align="center">
+
+<a href="#-about-me">About</a> ·
+<a href="#-my-journey">Journey</a> ·
+<a href="#-flutter-expertise">Expertise</a> ·
+<a href="#-tech-stack">Tech Stack</a> ·
+<a href="#-github-stats">Stats</a> ·
+<a href="#-featured-projects">Projects</a> ·
+<a href="#-education">Education</a>
+
+</div>
+
+<br/>
+
 ## &nbsp;👨‍💻 &nbsp;About Me
 
 <table>
@@ -221,11 +235,9 @@ basics                & Supabase backends  personal assistant
 
 <div align="center">
 
-**Core**&ensp;
-![Flutter](https://img.shields.io/badge/Flutter-0F2137?style=flat-square&logo=flutter&logoColor=7EB8D4)
-![Dart](https://img.shields.io/badge/Dart-0F2137?style=flat-square&logo=dart&logoColor=7EB8D4)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,nodejs,git,github,vscode,androidstudio,figma,ts,js,py,java,cs,cpp&theme=dark&perline=9"/>
 
-<br/>
+<br/><br/>
 
 **State Management**&ensp;
 ![GetX](https://img.shields.io/badge/GetX-0F2137?style=flat-square&logoColor=7EB8D4)
@@ -263,22 +275,9 @@ basics                & Supabase backends  personal assistant
 
 <br/>
 
-**DevOps**&ensp;
+**DevOps & Tools**&ensp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F2137?style=flat-square&logo=github-actions&logoColor=7EB8D4)
 ![Fastlane](https://img.shields.io/badge/Fastlane-0F2137?style=flat-square&logo=fastlane&logoColor=7EB8D4)
-![Git](https://img.shields.io/badge/Git-0F2137?style=flat-square&logo=git&logoColor=7EB8D4)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F2137?style=flat-square&logo=visual-studio-code&logoColor=7EB8D4)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-0F2137?style=flat-square&logo=android-studio&logoColor=7EB8D4)
-
-<br/>
-
-**Languages**&ensp;
-![C#](https://img.shields.io/badge/C%23-0F2137?style=flat-square&logo=c-sharp&logoColor=7EB8D4)
-![Python](https://img.shields.io/badge/Python-0F2137?style=flat-square&logo=python&logoColor=7EB8D4)
-![Java](https://img.shields.io/badge/Java-0F2137?style=flat-square&logo=openjdk&logoColor=7EB8D4)
-![C++](https://img.shields.io/badge/C++-0F2137?style=flat-square&logo=c%2B%2B&logoColor=7EB8D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F2137?style=flat-square&logo=javascript&logoColor=7EB8D4)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F2137?style=flat-square&logo=typescript&logoColor=7EB8D4)
 
 </div>
 
@@ -288,19 +287,25 @@ basics                & Supabase backends  personal assistant
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&count_private=true&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&text_color=C8E6F5&ring_color=1A4A6E" height="170"/>
-&ensp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&hide_border=true&background=0B1622&ring=1A4A6E&fire=4A90B8&currStreakLabel=7EB8D4&sideLabels=7EB8D4&dates=5A8AA8&stroke=0F2137" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&custom_title=Overall+Stats&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&text_color=C8E6F5&ring_color=A8D5B5"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&hide_border=true&background=0B1622&ring=A8D5B5&fire=4A90B8&currStreakLabel=7EB8D4&sideLabels=7EB8D4&dates=5A8AA8&stroke=0F2137"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&langs_count=8&custom_title=Most+Used+Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimelshishtawy&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&layout=compact&custom_title=Weekly+Focus"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&langs_count=8" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahimelshishtawy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1&title.color=7EB8D4&ranking.color=A8D5B5&icon.color=4A90B8&text.color=C8E6F5" width="96%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=0B1622&color=7EB8D4&line=1A4A6E&point=4A90B8&area=true&area_color=113652&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=0B1622&color=7EB8D4&line=A8D5B5&point=4A90B8&area=true&area_color=113652&hide_border=true&hide_title=true" width="96%"/>
 
 </div>
+
+<sub>⚠️ The "Weekly Focus" card needs a connected <a href="https://wakatime.com">WakaTime</a> account to populate — remove that line if you don't track coding time there.</sub>
 
 ---
 
