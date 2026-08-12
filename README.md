@@ -287,25 +287,21 @@ basics                & Supabase backends  personal assistant
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&custom_title=Overall+Stats&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&text_color=C8E6F5&ring_color=A8D5B5"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimelshishtawy&hide_border=true&background=0B1622&ring=A8D5B5&fire=4A90B8&currStreakLabel=7EB8D4&sideLabels=7EB8D4&dates=5A8AA8&stroke=0F2137"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ibrahimelshishtawy&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&custom_title=Overall+Stats&bg_color=0B1622&title_color=7EB8D4&icon_color=4A90B8&text_color=C8E6F5&ring_color=A8D5B5"/>
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=ibrahimelshishtawy&hide_border=true&background=0B1622&ring=A8D5B5&fire=4A90B8&currStreakLabel=7EB8D4&sideLabels=7EB8D4&dates=5A8AA8&stroke=0F2137"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&langs_count=8&custom_title=Most+Used+Languages"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimelshishtawy&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&layout=compact&custom_title=Weekly+Focus"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ibrahimelshishtawy&layout=compact&hide_border=true&bg_color=0B1622&title_color=7EB8D4&text_color=C8E6F5&langs_count=8&custom_title=Most+Used+Languages"/>
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahimelshishtawy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1&title.color=7EB8D4&ranking.color=A8D5B5&icon.color=4A90B8&text.color=C8E6F5" width="96%"/>
+
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=0B1622&color=7EB8D4&line=A8D5B5&point=4A90B8&area=true&area_color=113652&hide_border=true&hide_title=true" width="96%"/>
 
 </div>
-
-<sub>⚠️ The "Weekly Focus" card needs a connected <a href="https://wakatime.com">WakaTime</a> account to populate — remove that line if you don't track coding time there.</sub>
 
 ---
 
