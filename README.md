@@ -299,7 +299,6 @@ basics                & Supabase backends  personal assistant
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimelshishtawy&bg_color=0B1622&color=7EB8D4&line=A8D5B5&point=4A90B8&area=true&area_color=113652&hide_border=true&hide_title=true" width="96%"/>
 
 </div>
 
